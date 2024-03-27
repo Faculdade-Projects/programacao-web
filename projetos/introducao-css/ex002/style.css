@@ -33,7 +33,7 @@ header nav ul{
 
 #hero-section{
     height: 85vh;
-    background: url('https://thumbs.web.sapo.io/?W=775&H=0&delay_optim=1&webp=1&epic=Mzdk1L5LN25sZLQfW2haTb/vqskvkghD/yOkwLeqYJ86wKwetpZiZEtvIvVNS8/htA73qXgKghNpJtseJ4kM2TBeTQ==') no-repeat bottom left;
+    background: url('https://images.unsplash.com/photo-1643330683233-ff2ac89b002c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat top left;
     background-size: cover;
 
     display: flex;
